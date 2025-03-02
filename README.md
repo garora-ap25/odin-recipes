@@ -1,2 +1,2 @@
 # odin-recipes
-setting up this directory for TOP, Git Basics Lesson
+Setting up this directory for TOP's Recipes Project
